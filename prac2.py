@@ -25,7 +25,7 @@ def _generate_student_id():
     return f"ID-{random.randint(1000, 9999)}"  # генерує ід студента
 
 
-class ExtendedDmytro(Dmytro):
+class ExtendedPavlo(Pavlo):
     @ @-29
 
     , 7 + 30, 7 @ @
